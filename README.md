@@ -26,3 +26,9 @@ Key Features:
 - The App will check for Internet Status automatically, and display the correct screen accordingly.
 - The Search Bar save a local history of searches until the app is restarted, this is intended since a persistent implementation can be overkill.
 - The Search Bar x button needs to be clicked in order to revert the filter and see the entire list of Events.
+
+Link of interest:
+
+TicketMaster development DOCs -> https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/#search-events-v2
+
+
